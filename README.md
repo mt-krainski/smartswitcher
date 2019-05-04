@@ -10,9 +10,10 @@ Planned functionality:
 - current measurements
 
 Project status:
-[ ] Research
-[ ] Prototype development
-[ ] Prototype testing
-[ ] Design optimization and development of reduced package
-[ ] Profit?
+
+- [ ] Research
+- [ ] Prototype development
+- [ ] Prototype testing
+- [ ] Design optimization and development of reduced package
+- [ ] Profit?
 
