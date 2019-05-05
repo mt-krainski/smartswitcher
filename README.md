@@ -16,6 +16,3 @@ Project status:
 - [ ] Prototype testing
 - [ ] Design optimization and development of reduced package
 - [ ] Profit?
-
-Don't forget to:
- - Add varistor and fuse
