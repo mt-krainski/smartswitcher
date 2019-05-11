@@ -1,7 +1,7 @@
 
 | ID  | Part            | Function         | Notes                           |
 | --- | --------------- | ---------------- | ------------------------------- |
-| U1  | ESP8266 NodeMCU | Control          | [Notes](./notes/esp8266.md)     |
+| U1  | DFROBOT DFR0489 | Control          | TBD     |
 | U2  | ACS723          | Current Sensor   | [Notes](./notes/acs723.md)      |
 | U3  | MOC3023         | Optotriac        | [Notes](./notes/moc3023.md)     |
 | U4  | BT136-600E      | Triac            | [Notes](./notes/bt136.md)       |
