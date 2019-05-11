@@ -8,4 +8,4 @@
 | U5  | HLK-PM01        | Power supply     | [Notes](./notes/hlk-pm01.md)    |
 | U6  | DB107           | Bridge rectifier | [Notes](./notes/db107,md)       |
 | U7  | PC817           | Optocoupler      | [Notes](./notes/pc817.md)       |
-| U8  | MOV-10D391K     | Varistor         | [Notes](./notes/mov-10d391k.md) |
+| U8  | TMOV14RP250E    | Varistor         | [Notes](./notes/mov-10d391k.md) |
