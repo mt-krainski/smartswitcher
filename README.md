@@ -9,10 +9,14 @@ Planned functionality:
 - dimming light
 - current measurements
 
+Schematic is in PCBWeb Designer.
+
 Project status:
 
-- [ ] Research
+- [x] Research
 - [ ] Prototype development
 - [ ] Prototype testing
 - [ ] Design optimization and development of reduced package
 - [ ] Profit?
+
+
